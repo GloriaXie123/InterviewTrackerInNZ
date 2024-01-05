@@ -42,3 +42,16 @@ feedbacks and so on.
     application status: message sent over phone number.
 
     feedback: nothing yet.
+
+
+    4.workwise
+
+    date: 5th January 2023
+
+    position: open opportunities.
+
+    source: friends.
+
+    application status: message sent over website.
+
+    feedback: nothing yet.
