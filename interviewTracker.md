@@ -29,3 +29,16 @@ feedbacks and so on.
     application status: CV submitted.
 
     feedback: nothing yet.
+
+
+    3.bkonnect
+
+    date: 5th January 2023
+
+    position: open opportunities.
+
+    source: friends.
+
+    application status: message sent over phone number.
+
+    feedback: nothing yet.
