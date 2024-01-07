@@ -15,7 +15,7 @@ feedbacks and so on.
 
     application status: CV and coverletter submitted.
 
-    feedback: nothing yet.
+    feedback: no vacancy.
 
 
     2. Booking.com(NL)
@@ -60,6 +60,19 @@ feedbacks and so on.
     5.CONSPECT
 
     date: 6th January 2023
+
+    position: software developer.
+
+    source: friends.
+
+    application status: cv and cover letter sent over website.
+
+    feedback: nothing yet.
+
+
+    6.BOL.COM
+
+    date: 7th January 2023
 
     position: software developer.
 
