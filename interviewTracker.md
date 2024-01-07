@@ -55,3 +55,16 @@ feedbacks and so on.
     application status: message sent over website.
 
     feedback: nothing yet.
+
+
+    5.CONSPECT
+
+    date: 6th January 2023
+
+    position: software developer.
+
+    source: friends.
+
+    application status: cv and cover letter sent over website.
+
+    feedback: nothing yet.
